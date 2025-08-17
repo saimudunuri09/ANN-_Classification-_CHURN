@@ -5,3 +5,4 @@ scikit-learn
 tensorboard
 matplotlib
 streamlit
+# this is for just git leraning  
